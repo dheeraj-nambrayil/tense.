@@ -11,7 +11,7 @@
 body {
     background-color: #111124;
     cursor: blue;
-    overflow: scroll;
+    overflow: none;
     scroll-behavior: smooth;
 
 }
